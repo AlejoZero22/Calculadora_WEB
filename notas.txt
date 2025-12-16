@@ -1,0 +1,8 @@
+De una calculadora que solo sumaba a una que resta y multiplica 
+usamos switch: nos ayuda evaluar un valor por lo cual lo convinamos con case
+usamos case: nos define que hacer para cada opcion asi que por eso lo puse 
+en cada funcion suma, resta, miltiplicacion 
+el break: evita que el programa se ejecute el resto de codigo sin parar (lo anto porque luego hando pensando que es lo que hace 😡)
+
+no menos importante la "estetica" tiene un poco de bootstrap en este caso fue algo simple pero lo dejo anota porque luego hando buscado
+porque se me ve asi la web y no tengo un style.css jajaja
